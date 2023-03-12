@@ -53,6 +53,15 @@ hr {
 .work h2 {
     text-transform: uppercase;
     letter-spacing: 1.5px;
+    text-align: center;
+}
+.duty {
+    text-align: center;
+}
+
+.duty p {
+    text-align: justify;
+    line-height: 1.5;
 }
 
 span {
@@ -93,6 +102,22 @@ button {
     height: 50px;
     margin-top: 20px;
     text-transform: uppercase;
+}
+
+
+.edu {
+    background-image: url("images/black-lecture.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.academia {
+    color: white;
+    line-height: 1.5;
+    margin-left: 60px;
+    padding: 10px 0;
 }
 footer {
     position: fixed;
